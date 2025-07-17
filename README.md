@@ -3,7 +3,7 @@
 A modern and complete implementation of the **Pix2Pix** conditional GAN for image-to-image translation tasks such as black-and-white to color, sketches to photos, or facades to buildings.
 
 ##Example
-![image](https://github.com/bhautik2005/PRODIGY_GA_04/blob/a90a5408a55c6c909f39531cb6942bb1be56d6bb/image.jpg)
+                                            ![image](https://github.com/bhautik2005/PRODIGY_GA_04/blob/a90a5408a55c6c909f39531cb6942bb1be56d6bb/image.jpg)
 ---
 
 ## 🚀 Key Features
